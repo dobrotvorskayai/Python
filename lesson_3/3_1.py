@@ -11,4 +11,4 @@ def num_find (len_list, number):
         return 'Yes'
     return 'No'
 
-print(num_find (int (input('Введите длину списка: ')), int (input('Введите число: 5'))))
+print(num_find (int (input('Введите длину списка: ')), int (input('Введите число: '))))
